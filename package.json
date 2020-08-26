@@ -1,0 +1,20 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "CYPRESS TESTING PROJECT FOR AUTOMATION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinsakpal87/cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sachinsakpal87/cypress/issues"
+  },
+  "homepage": "https://github.com/sachinsakpal87/cypress#readme"
+}

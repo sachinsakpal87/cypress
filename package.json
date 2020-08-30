@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/sachinsakpal87/cypress#readme",
   "devDependencies": {
-    "cypress": "^5.0.0"
+    "cypress": "^5.0.0",
+    "cypress-xpath": "^1.6.0"
   },
   "dependencies": {
     "prettier": "^2.1.1"
